@@ -10,7 +10,7 @@ local Window = redzlib:MakeWindow({
 })
 
 Window:AddMinimizeButton({
-    Button = { Image = "rbxassetid://71014873973869", BackgroundTransparency = 0 },
+    Button = { Image = "rbxassetid://99395339259651", BackgroundTransparency = 0 },
     Corner = { CornerRadius = UDim.new(0, 10) }  -- Redondo como en Redz
 })
 
@@ -182,3 +182,4 @@ ConfigTab:AddButton({
 })
 
 Window:SelectTab(MainTab)
+
